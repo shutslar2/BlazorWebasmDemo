@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shutslar\\Documents\\src\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj": {}
+    "C:\\Users\\shutslar\\Documents\\srcScratchPad\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shutslar\\Documents\\src\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj": {
+    "C:\\Users\\shutslar\\Documents\\srcScratchPad\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shutslar\\Documents\\src\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj",
+        "projectUniqueName": "C:\\Users\\shutslar\\Documents\\srcScratchPad\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj",
         "projectName": "BlazorWasmDemo",
-        "projectPath": "C:\\Users\\shutslar\\Documents\\src\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj",
+        "projectPath": "C:\\Users\\shutslar\\Documents\\srcScratchPad\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj",
         "packagesPath": "C:\\Users\\shutslar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shutslar\\Documents\\src\\BlazorWasmAppDemo\\BlazorWasmDemo\\obj\\",
+        "outputPath": "C:\\Users\\shutslar\\Documents\\srcScratchPad\\BlazorWasmAppDemo\\BlazorWasmDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
