@@ -1,3 +1,5 @@
+using BlazorWasmDemo.DataServices;
+using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -19,7 +21,12 @@ namespace BlazorWasmDemo
 
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.Configuration["api_base_url"]) });
 
+            //builder.Services.AddHttpClient<ISpaceXDataService, RestSpaceXDataService>
+            builder.Services.AddHttpClient<ISpaceXDataService, GraphQlSpaceXDataService>
+                (sxds => sxds.BaseAddress = new Uri(builder.Configuration["api_base_url"]));
+
             await builder.Build().RunAsync();
         }
+
     }
 }
