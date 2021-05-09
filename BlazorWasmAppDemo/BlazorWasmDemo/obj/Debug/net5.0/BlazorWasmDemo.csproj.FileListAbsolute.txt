@@ -630,3 +630,8 @@ C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\obj\D
 C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\obj\Debug\net5.0\BlazorWasmDemo.dll
 C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\obj\Debug\net5.0\ref\BlazorWasmDemo.dll
 C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\obj\Debug\net5.0\BlazorWasmDemo.pdb
+C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\obj\Debug\net5.0\RazorDeclaration\Pages\Launches.razor.g.cs
+C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\obj\Debug\net5.0\Razor\Pages\Launches.razor.g.cs
+C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\Users\shutslar\Documents\srcScratchPad\BlazorWasmAppDemo\BlazorWasmDemo\obj\Debug\net5.0\build-gz\2ZD9oGLR.gz
