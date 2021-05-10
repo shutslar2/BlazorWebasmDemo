@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HRfAhUAENXcmmD5qgeomUwe7pSqzttShJIc7+elLwxTGhJETmCtpkymzBUefH31ZC9kPeGMVrITLTNp8XlpOPw==",
+  "dgSpecHash": "00Lo7tzNJJHYR8gevrrdaR3d81mEJGz4pxASCpZdzV7jmFBHJAfmcub66rpaPJiRkhSPsLMlFlnLocnTqMK2iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shutslar\\Documents\\srcScratchPad\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj",
+  "projectFilePath": "C:\\Users\\shutslar\\Documents\\srcScratchPad\\BlazorWasmAppDemo\\BlazorWasmAppDemo\\BlazorWasmDemo\\BlazorWasmDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shutslar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.5\\microsoft.aspnetcore.authorization.5.0.5.nupkg.sha512",
     "C:\\Users\\shutslar\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.5\\microsoft.aspnetcore.components.5.0.5.nupkg.sha512",
